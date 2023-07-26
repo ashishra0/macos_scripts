@@ -4,3 +4,4 @@
 2. [Automate sending email](send_email_reminder.scpt)
 3. [Add reminder](add_reminder.scpt)
 4. [Custom notification](custom_notification.scpt)
+5. [Birthday reminder](birthday_reminder.scpt)
